@@ -1,21 +1,21 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
+# Please click ⭐ if you like the project.
 
-## Available Scripts
+# Pull request are highly appreciated ❤️.
 
-In the project directory, you can run:
+# Tesla Clone
 
-### `npm start`
+![Tesla Clone](https://i.ibb.co/RBSpPz9/Screenshot-43.png)
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+This is a Full Stack Application. Using React, Redux toolkit, Styled-components, and firebase.
+The App is called Tesla clone. The application is inspired by the Tesla application,
+which sells electric cars, battery energy storage from home to grid-scale, solar panels.
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+# [Live app here](https://tesla-electric-car.netlify.app/)
 
-### `npm test`
+### Note for the application:
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+https://www.react-reveal.com/docs/
+yarn add react-reveal
 
 ### `npm run build`
 
